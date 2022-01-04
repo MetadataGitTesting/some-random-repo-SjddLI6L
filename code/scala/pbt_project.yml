@@ -1,0 +1,22 @@
+name: odis.spinka
+description: User fork
+version: 1
+author: marissa.funk@yahoo.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: marissa.funk@yahoo.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-04 12:49:01'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Ms__Leon_Mayer:
+    name: Ms__Leon_Mayer
+    description: Really solid info
+    createdAt: '2022-01-04 12:49:01'
+    author: marissa.funk@yahoo.com
